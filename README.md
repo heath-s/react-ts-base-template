@@ -1,3 +1,25 @@
+# React Typescript Base Template
+
+This project is a base template for React with Typescript
+
+## Ready for developing
+
+### Prerequisites
+
+- Latest version of Node.js (v16 recommended) installed
+  - Enable Yarn by `corepack enable`
+- (Recommended) Visual Studio Code
+
+### Project initialization
+
+1. Clone the repo.
+2. Run `yarn`
+3. Copying `.vscode/settings.sample.json` to `.vscode/settings.json` is recommended if you're using VS Code. This helps linting codes.
+
+
+---
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
